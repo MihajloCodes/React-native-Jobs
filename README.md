@@ -1,14 +1,17 @@
-# Expo Router Example
+# My First React Native App 
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+!React Native Jobs
 
-## 🚀 How to use
+Welcome to my first React Native app from tutorial [Build and Deploy a React Native App | 2023](https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=1215s) ! This app was developed as a learning project to get started with RN mobile app development. 
 
-```sh
-npx create-expo-app -e with-router
-```
 
-## 📝 Notes
+## Introduction
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Alongside building this application, I also learned how to:
+- develop visually appealing UI/UX designs
+- fetch data from an external API and integrate it
+- implement search & pagination functionality
+- create customAPI data fetching hooks
+- write clean, organized, and maintainable code with proper architecture
+- follow the best practices for React Native development
+
