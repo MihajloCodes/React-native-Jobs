@@ -5,6 +5,11 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
+    "slug": "jobs",
+    "extra": {
+      "eas": {
+        "projectId": "866cd1cd-94b4-4fd0-b354-d1831a2ff921"
+      }
+    }
   }
 }
