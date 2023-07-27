@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
   tabText: (activeJobType, item) => ({
     fontFamily: FONT.medium,
     color: activeJobType === item ? COLORS.secondary : COLORS.gray2,
+    textTransform: "capitalize"
   }),
 });
 
