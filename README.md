@@ -1,6 +1,6 @@
 # My First React Native App 
 
-!React Native Jobs
+React Native Jobs
 
 Welcome to my first React Native app from tutorial [Build and Deploy a React Native App | 2023](https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=1215s) ! This app was developed as a learning project to get started with RN mobile app development. 
 
